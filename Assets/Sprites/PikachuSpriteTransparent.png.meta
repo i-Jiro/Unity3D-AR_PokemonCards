@@ -1,0 +1,2522 @@
+fileFormatVersion: 2
+guid: 1e0a0affb0cfb154aaf409f4f24f315c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 214
+        width: 37
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7973841bd86127c46a895d6ad4928953
+      internalID: 294252389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 214
+        width: 38
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca281604a7ee4604aa19c4bfb91b9120
+      internalID: -1949064241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 214
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9963b9c9471381242a02ed7acdce6250
+      internalID: -264650609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 214
+        width: 36
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a23bbf31b2e9c48aa80df90112e57c
+      internalID: -560966100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 214
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f06dead2631cbd40812b349ecc41cd2
+      internalID: -1204648666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 214
+        width: 37
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fefd460347ce14eab5979af4b63c19
+      internalID: -620486854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 214
+        width: 37
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f4ba8ab384e2b4cbcb82aa7989559d
+      internalID: -1040832056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 239
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1949b63fe8c6544ebadba683d38ee41
+      internalID: -648609037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 239
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f1fab06477de84fb24a60d5f079314
+      internalID: 1779933556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 239
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981071fdb8e16dc43b1e2fd794ce4f98
+      internalID: 478810264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_10
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 239
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca13c3b14ea23eb478001f3c9b4d222f
+      internalID: 1268186314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 239
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d4e002eccb9604fbf4384d33086095
+      internalID: 847689959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_12
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 239
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4188ca8aa6b9bd43b75657057ba5071
+      internalID: 1956711196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 239
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1823d0739efe8bf4d9faa7207ba2cf6d
+      internalID: -2063764414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 239
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e08987ddb1d94db60e2cc91858e17
+      internalID: 175528914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 239
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfecfe7e7f959ae42a07ae9522beca41
+      internalID: -1863828192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 235
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accbe6346c4685947a1ecc78e34a807c
+      internalID: 72053065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_17
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 214
+        width: 39
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e2d8cc6090e7c4cabf4c7a5999465b
+      internalID: -2093327908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_18
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 214
+        width: 37
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ad3f17bd1abdc4185f35cde9f12dd6
+      internalID: 1962162904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 227
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeed70ade9a01e4caddc75378e2c10d
+      internalID: 1308313315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 227
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb80cbe5a0cbad4fa3535e5f3f63b3d
+      internalID: 524620048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_21
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 227
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77510f948986b4645957bf081f694e4a
+      internalID: -1238530165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 227
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818d359291ec59f4cb4c6f90ac2f087c
+      internalID: -1128905705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_23
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 227
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fb412a21f475543b247a1b59e14734
+      internalID: -626237134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 227
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce3c64834bd69e4cb0225a735dcd1a4
+      internalID: -1502224884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_25
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 225
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe9111f63245ac4aa77112228a4d139
+      internalID: 1627538285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 227
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1fc84dda147bb4e8b5ea2ef4c663e9
+      internalID: -1268257217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 227
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33b5438b3f0d164bb9c011250dfe93c
+      internalID: -1933870670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_28
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 215
+        width: 11
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9956de8c83dd8940899d1dff39f9194
+      internalID: 592275912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_29
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 215
+        width: 27
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2318e8c7559cc3149acb5d1d5f1d3eba
+      internalID: 1999857863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_30
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 215
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd12f62c123fe0b42a079977b9eb92bc
+      internalID: -1567710893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_31
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 215
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cb3d424f7d17a4a89a49965dc28ee1
+      internalID: 740007668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_32
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 215
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a94b15f661eff74b838a8438026bf56
+      internalID: -1428375695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 213
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67196dff1a406744a01fdaf60667fc9
+      internalID: -1372774796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_34
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 215
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3aa0adf17e59d4bbb28fd918c2b135
+      internalID: -820851410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_35
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 215
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dbad597647aad43b907ee414233d40
+      internalID: 1663926179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_36
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 215
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e395731e06e4445a7a7f3c5c01dac4
+      internalID: 1636940111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_37
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 215
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa3bdd17f268bc41b8f406105acff65
+      internalID: 429280007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 215
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33aa12b82e142244f9d9667220ec1a6c
+      internalID: 1300096660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_39
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 215
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3d34fa18a58db4694384a0b256d397
+      internalID: -414748956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_40
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 215
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd18b1d4be784e445a5de6eb02765d5b
+      internalID: -1667855133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 176
+        width: 45
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9b0d1642580c1468a61afdaeb42b6e
+      internalID: -1628699638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_42
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 180
+        width: 46
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8498edb9d56a55749aa4a1cd376f7516
+      internalID: 326167819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_43
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 177
+        width: 44
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7840b11cf040d45addb9e89c375cb1
+      internalID: 478024799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_44
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 177
+        width: 44
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db8d24d1912d9b42a093db897a394b5
+      internalID: -84291686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_45
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 177
+        width: 45
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4301082e0f445d4e98830868e1d662e
+      internalID: 879464614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_46
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 177
+        width: 46
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe1deb18b945dc428420950363a7c20
+      internalID: -1849022503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_47
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 203
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5c9f2251069dc44b4942a4718dfae1
+      internalID: 1843342678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_48
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 203
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9369e6f7ac6c84348b6844e68266fca8
+      internalID: 1965235895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_49
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 203
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a348f1f06720794fa835a4f860a6996
+      internalID: 936802763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_50
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 203
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4842edba83bea409a914c478acdfe2
+      internalID: 878678102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_51
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 203
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247dc8d3225702344abc13815d2eda27
+      internalID: -933345703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_52
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 203
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6eb61b4073d7d408c1f5bc83f22ede
+      internalID: 2089031700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_53
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 203
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a52d62978a55c4eb5e72b787afa8c3
+      internalID: -1041693825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 203
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93c1ec73290d7e42897475b50e12f3f
+      internalID: -1408735281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_55
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 193
+        width: 27
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af50e698e75dd44c9b0599037dc92dd
+      internalID: 61738250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_56
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 193
+        width: 27
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77076898cdfd7d4d9f1573f73feadfa
+      internalID: 1712254072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_57
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 192
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e885e6c088ca6d9408875b3a0f50c3a5
+      internalID: -228176610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_58
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 190
+        width: 27
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d79c33e7934d14ab2b360d532860dd
+      internalID: 1819550859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_59
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 191
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9edca63e70acd049ade9784c32565ee
+      internalID: -255018762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_60
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 191
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512bdaa4f1d303f4081b1e7a12770fb2
+      internalID: 1497411359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_61
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 191
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbd980988dcfb645b760d1c11057d24
+      internalID: -1938392624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_62
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 191
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dc431e6c25a0f4e8c035f10b589e23
+      internalID: -999993479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_63
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 191
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a26a1a0556d2c448ae3f6b60da9fd5c
+      internalID: -1339834344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_64
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 191
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085a524398153a84b9ded3e88da5e990
+      internalID: -157384114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_65
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 191
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e061bd4b09a1f4bafc6a54452f72b4
+      internalID: -1135563856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_66
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 191
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ea4de56fb54e34189fe4d7611d6461
+      internalID: -1888679987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_67
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 191
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490187a70a2e6f744889fbb0d32ea8e1
+      internalID: 152243245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_68
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 181
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3817cc51f72c4de499ded9135587940b
+      internalID: 1202761656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_69
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 169
+        width: 27
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0083de5c95f3b484a86d916809e04161
+      internalID: -958309805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_70
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 179
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8a15b8e919f4944943de4744109f53
+      internalID: 1215084653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_71
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 181
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cdb7d503c0847499c92aad1429a310
+      internalID: 2029845744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_72
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 169
+        width: 27
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e15b6086da074149bfc66cd20ffba47
+      internalID: -1065484455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_73
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 180
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7524cb6ca5a57264786d9b6e20f6aca3
+      internalID: -1853504848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_74
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 172
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf8ff89ef5c64c4faadc31b9cbebdbe
+      internalID: -135376341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_75
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 180
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8366519ffd1e79c42b6ff7057a6bf44f
+      internalID: 793800050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_76
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 138
+        width: 39
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfd66b4dd0344840be27cbdc1290caf
+      internalID: -1319929927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_77
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 171
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3ade649e9d9ad47a594eddff5a1bb2
+      internalID: 1604558577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_78
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 171
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ebaee751126554f87b46c334c8f19b
+      internalID: -226184992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_79
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 149
+        width: 27
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348f1e219479e944e8abbecd30e8d740
+      internalID: -1667193477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_80
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 153
+        width: 27
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6088184da41ddfa459c1f2cd267e0340
+      internalID: 858098895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_81
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 152
+        width: 32
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a2158a612803342b11f89caa16837f
+      internalID: 1321914479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_82
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 151
+        width: 25
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b67b4c40d57b84aa72d74da4f291e1
+      internalID: -1686556121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_83
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 151
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b8f6ebc7c8cbf4f891b62f686cc946
+      internalID: 1480680735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd4bc8c2029b0d4297d210c43b505eb
+      internalID: 2011574357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_85
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 100
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8da571e89c648149ba97f3802e122ae
+      internalID: -878396925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_86
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 100
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36f848cff099ad48a8bfadb809bcb28
+      internalID: 1470012416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_87
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 100
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be36c6f54066ac4e99bb3c36bbcdeae
+      internalID: -1175765960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_88
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 100
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b77fc8cf3158b4a9f20a854ae86bf0
+      internalID: -1446791745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_89
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 130
+        width: 19
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f784455637c3b4e4781adbcfe44bf980
+      internalID: -813882987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_90
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 130
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94a1ab34f1cea040af4c35b254fb007
+      internalID: 2043099812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_91
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 135
+        width: 41
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a723614fe6cdf745be80378bf443a9a
+      internalID: 1389171426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_92
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 134
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02863573ac261047815895f29fb2a7d
+      internalID: 271777590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_93
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 134
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f11fb45c372744487aa1999962dea9
+      internalID: -863843419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_94
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 102
+        width: 36
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223359edc5bab1a4fa78dd917b8ba129
+      internalID: -1083224006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 117
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e54b48395cbd34ab62d77a29ae70d2
+      internalID: -840955166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_96
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 117
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1fec6bcf553bc4084b08a5afcde027
+      internalID: 2046638516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_97
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 100
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1615efcb6085f647b9980bb446cc6ed
+      internalID: 1718215207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_98
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 100
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aa7a7432a8a114ca7ac8fc34a73042
+      internalID: 98831682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 62
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a87ac60d7d573419462070ca4b130a
+      internalID: 761923514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_100
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 59
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965598c8d53af284c9855465dde89d61
+      internalID: 1689725753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_101
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 57
+        width: 45
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524d05f77aa6da34e819c202954beb8f
+      internalID: -187728423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 46
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f614b0bfdd57f24380e7d4e43b13ddf
+      internalID: -1831118444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf906600ebd3e7a4caf31cdf1f481b28
+      internalID: -2036158497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_104
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3
+        width: 46
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140eaf6d30acd194cbe08af5b3b1bf42
+      internalID: 1065837433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_105
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1
+        width: 44
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61369d94b1c34f243b5eedc09e962b4a
+      internalID: 2022072355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_106
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 33
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bfebc5b79daff4e815b20f8c20d68d
+      internalID: -1520521504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikachuSpriteTransparent_107
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1
+        width: 45
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e401185c21f9cf4cb3eb88c9bbc6c52
+      internalID: -531682542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bcc65571784db584b8d373b8e2d00979
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PikachuSpriteTransparent_84: 2011574357
+      PikachuSpriteTransparent_12: 1956711196
+      PikachuSpriteTransparent_17: -2093327908
+      PikachuSpriteTransparent_67: 152243245
+      PikachuSpriteTransparent_88: -1446791745
+      PikachuSpriteTransparent_58: 1819550859
+      PikachuSpriteTransparent_23: -626237134
+      PikachuSpriteTransparent_61: -1938392624
+      PikachuSpriteTransparent_70: 1215084653
+      PikachuSpriteTransparent_54: -1408735281
+      PikachuSpriteTransparent_68: 1202761656
+      PikachuSpriteTransparent_78: -226184992
+      PikachuSpriteTransparent_72: -1065484455
+      PikachuSpriteTransparent_59: -255018762
+      PikachuSpriteTransparent_20: 524620048
+      PikachuSpriteTransparent_73: -1853504848
+      PikachuSpriteTransparent_21: -1238530165
+      PikachuSpriteTransparent_101: -187728423
+      PikachuSpriteTransparent_32: -1428375695
+      PikachuSpriteTransparent_105: 2022072355
+      PikachuSpriteTransparent_8: 1779933556
+      PikachuSpriteTransparent_75: 793800050
+      PikachuSpriteTransparent_82: -1686556121
+      PikachuSpriteTransparent_43: 478024799
+      PikachuSpriteTransparent_85: -878396925
+      PikachuSpriteTransparent_71: 2029845744
+      PikachuSpriteTransparent_107: -531682542
+      PikachuSpriteTransparent_5: -620486854
+      PikachuSpriteTransparent_6: -1040832056
+      PikachuSpriteTransparent_80: 858098895
+      PikachuSpriteTransparent_38: 1300096660
+      PikachuSpriteTransparent_15: -1863828192
+      PikachuSpriteTransparent_69: -958309805
+      PikachuSpriteTransparent_10: 1268186314
+      PikachuSpriteTransparent_9: 478810264
+      PikachuSpriteTransparent_34: -820851410
+      PikachuSpriteTransparent_100: 1689725753
+      PikachuSpriteTransparent_74: -135376341
+      PikachuSpriteTransparent_83: 1480680735
+      PikachuSpriteTransparent_11: 847689959
+      PikachuSpriteTransparent_2: -264650609
+      PikachuSpriteTransparent_49: 936802763
+      PikachuSpriteTransparent_81: 1321914479
+      PikachuSpriteTransparent_26: -1268257217
+      PikachuSpriteTransparent_45: 879464614
+      PikachuSpriteTransparent_91: 1389171426
+      PikachuSpriteTransparent_56: 1712254072
+      PikachuSpriteTransparent_18: 1962162904
+      PikachuSpriteTransparent_41: -1628699638
+      PikachuSpriteTransparent_60: 1497411359
+      PikachuSpriteTransparent_79: -1667193477
+      PikachuSpriteTransparent_53: -1041693825
+      PikachuSpriteTransparent_33: -1372774796
+      PikachuSpriteTransparent_87: -1175765960
+      PikachuSpriteTransparent_90: 2043099812
+      PikachuSpriteTransparent_30: -1567710893
+      PikachuSpriteTransparent_97: 1718215207
+      PikachuSpriteTransparent_93: -863843419
+      PikachuSpriteTransparent_3: -560966100
+      PikachuSpriteTransparent_42: 326167819
+      PikachuSpriteTransparent_98: 98831682
+      PikachuSpriteTransparent_29: 1999857863
+      PikachuSpriteTransparent_16: 72053065
+      PikachuSpriteTransparent_77: 1604558577
+      PikachuSpriteTransparent_31: 740007668
+      PikachuSpriteTransparent_25: 1627538285
+      PikachuSpriteTransparent_86: 1470012416
+      PikachuSpriteTransparent_92: 271777590
+      PikachuSpriteTransparent_24: -1502224884
+      PikachuSpriteTransparent_52: 2089031700
+      PikachuSpriteTransparent_27: -1933870670
+      PikachuSpriteTransparent_44: -84291686
+      PikachuSpriteTransparent_66: -1888679987
+      PikachuSpriteTransparent_55: 61738250
+      PikachuSpriteTransparent_64: -157384114
+      PikachuSpriteTransparent_104: 1065837433
+      PikachuSpriteTransparent_47: 1843342678
+      PikachuSpriteTransparent_4: -1204648666
+      PikachuSpriteTransparent_14: 175528914
+      PikachuSpriteTransparent_37: 429280007
+      PikachuSpriteTransparent_19: 1308313315
+      PikachuSpriteTransparent_95: -840955166
+      PikachuSpriteTransparent_62: -999993479
+      PikachuSpriteTransparent_103: -2036158497
+      PikachuSpriteTransparent_48: 1965235895
+      PikachuSpriteTransparent_7: -648609037
+      PikachuSpriteTransparent_102: -1831118444
+      PikachuSpriteTransparent_50: 878678102
+      PikachuSpriteTransparent_22: -1128905705
+      PikachuSpriteTransparent_99: 761923514
+      PikachuSpriteTransparent_0: 294252389
+      PikachuSpriteTransparent_51: -933345703
+      PikachuSpriteTransparent_36: 1636940111
+      PikachuSpriteTransparent_65: -1135563856
+      PikachuSpriteTransparent_94: -1083224006
+      PikachuSpriteTransparent_13: -2063764414
+      PikachuSpriteTransparent_28: 592275912
+      PikachuSpriteTransparent_40: -1667855133
+      PikachuSpriteTransparent_63: -1339834344
+      PikachuSpriteTransparent_46: -1849022503
+      PikachuSpriteTransparent_57: -228176610
+      PikachuSpriteTransparent_89: -813882987
+      PikachuSpriteTransparent_76: -1319929927
+      PikachuSpriteTransparent_39: -414748956
+      PikachuSpriteTransparent_35: 1663926179
+      PikachuSpriteTransparent_1: -1949064241
+      PikachuSpriteTransparent_96: 2046638516
+      PikachuSpriteTransparent_106: -1520521504
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
