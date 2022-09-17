@@ -13,6 +13,17 @@ public class PokemonEntity : MonoBehaviour
     private SpriteRenderer _renderer;
     private bool _isTracking = false;
     private bool _isMoving = false;
+    private bool _isGettingPowerUp;
+
+    private void OnEnable()
+    {
+        TrackablesManager.Instance.FoundPowerUp += GotoPowerUp;
+    }
+
+    private void OnDisable()
+    {
+        TrackablesManager.Instance.FoundPowerUp -= GotoPowerUp;
+    }
 
     private void Awake()
     {
@@ -20,21 +31,13 @@ public class PokemonEntity : MonoBehaviour
         _renderer = GetComponentInChildren<SpriteRenderer>();
     }
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        //StartCoroutine(RandomMove());
-    }
-
     // Update is called once per frame
     void Update()
     {
-        if (_isTracking)
+        if (!_isTracking) return;
+        if (!_isMoving && !_isGettingPowerUp)
         {
-            if (!_isMoving)
-            {
-                StartCoroutine(RandomMove(_speed));
-            }
+            StartCoroutine(RandomMove(_speed));
         }
     }
     public void OnFoundTarget()
@@ -48,11 +51,51 @@ public class PokemonEntity : MonoBehaviour
         transform.localPosition = Vector3.zero;
         _isTracking = false;
     }
+
+    private void GotoPowerUp(GameObject powerUpCard)
+    {
+        if (!_isTracking) return;
+        _isGettingPowerUp = true;
+        Debug.Log("Moving to power up.");
+        StopAllCoroutines();
+        _isMoving = false;
+        var powerUp = powerUpCard.GetComponent<PowerUp>();
+        Vector3 targetRelativePos = this.transform.InverseTransformPoint(powerUp.PowerUpOrb.transform.position);
+        StartCoroutine(MoveToPowerUp(targetRelativePos, _speed));
+    }
+
+    private IEnumerator MoveToPowerUp(Vector3 targetPos, float duration)
+    {
+        Vector3 startPos = transform.localPosition;
+        _animator.SetBool("isMoving", true);
+        float startTime = 0;
+        
+        if (targetPos.x > startPos.x)
+        {
+            _renderer.flipX = true;
+        }
+        else
+        {
+            _renderer.flipX = false;
+        }
+        
+        while (startTime <= duration)
+        {
+            transform.localPosition = Vector3.Lerp(startPos, targetPos, startTime/duration);
+            startTime += Time.deltaTime;
+            yield return null;
+        }
+        
+        _animator.SetBool("isMoving", false);
+        _animator.SetTrigger("PowerUp");
+        yield return new WaitForSeconds(3f);
+        _isGettingPowerUp = false;
+    }
     
     private IEnumerator RandomMove(float duration)
     {
         _isMoving = true;
-        yield return new WaitForSeconds(3f);
+        yield return new WaitForSeconds(3f); // Wait 3 seconds before moving again.
         _animator.SetBool("isMoving", true);
         Vector3 startPos = transform.localPosition;
         Vector3 targetPos;
